@@ -1,0 +1,3 @@
+
+a. the script does the cmd passed as arg
+b. a 1 a1c 1*10
